@@ -1,0 +1,16 @@
+[
+{
+  "modid": "besm",
+  "name": "Botania Enchanted Soil Mover",
+  "description": "Adds a Terrasteel Shovel to safely move Enchanted Soil.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Alter"],
+  "credits": "The Forge Team, for forge; Vazkii, for Botania; Arthur, for code tips;",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": [Botania]
+}
+]
